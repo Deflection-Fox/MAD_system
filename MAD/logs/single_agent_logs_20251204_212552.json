@@ -1,0 +1,711 @@
+{
+  "strategy": "single_agent",
+  "accuracy": 0.6571428571428571,
+  "total_questions": 70,
+  "api_calls": 70,
+  "timestamp": "20251204_212552",
+  "category_stats": {
+    "math": {
+      "total": 5,
+      "correct": 4,
+      "accuracy": 0.8
+    },
+    "health": {
+      "total": 5,
+      "correct": 2,
+      "accuracy": 0.4
+    },
+    "physics": {
+      "total": 5,
+      "correct": 3,
+      "accuracy": 0.6
+    },
+    "business": {
+      "total": 5,
+      "correct": 3,
+      "accuracy": 0.6
+    },
+    "biology": {
+      "total": 5,
+      "correct": 5,
+      "accuracy": 1.0
+    },
+    "chemistry": {
+      "total": 5,
+      "correct": 2,
+      "accuracy": 0.4
+    },
+    "computer science": {
+      "total": 5,
+      "correct": 3,
+      "accuracy": 0.6
+    },
+    "economics": {
+      "total": 5,
+      "correct": 3,
+      "accuracy": 0.6
+    },
+    "engineering": {
+      "total": 5,
+      "correct": 3,
+      "accuracy": 0.6
+    },
+    "philosophy": {
+      "total": 5,
+      "correct": 4,
+      "accuracy": 0.8
+    },
+    "other": {
+      "total": 5,
+      "correct": 3,
+      "accuracy": 0.6
+    },
+    "history": {
+      "total": 5,
+      "correct": 4,
+      "accuracy": 0.8
+    },
+    "psychology": {
+      "total": 5,
+      "correct": 4,
+      "accuracy": 0.8
+    },
+    "law": {
+      "total": 5,
+      "correct": 3,
+      "accuracy": 0.6
+    }
+  },
+  "logs": [
+    {
+      "question_id": 0,
+      "category": "math",
+      "strategy": "single_agent",
+      "final_answer": 0,
+      "correct_answer": 0,
+      "debate_process": "FINAL_ANSWER: 0",
+      "timestamp": "2025-12-04T21:21:11.517898"
+    },
+    {
+      "question_id": 1,
+      "category": "math",
+      "strategy": "single_agent",
+      "final_answer": 7,
+      "correct_answer": 7,
+      "debate_process": "FINAL_ANSWER: 7",
+      "timestamp": "2025-12-04T21:21:14.060200"
+    },
+    {
+      "question_id": 2,
+      "category": "math",
+      "strategy": "single_agent",
+      "final_answer": 4,
+      "correct_answer": 4,
+      "debate_process": "FINAL_ANSWER: 4",
+      "timestamp": "2025-12-04T21:21:19.013548"
+    },
+    {
+      "question_id": 3,
+      "category": "math",
+      "strategy": "single_agent",
+      "final_answer": 2,
+      "correct_answer": 8,
+      "debate_process": "FINAL_ANSWER: 2",
+      "timestamp": "2025-12-04T21:21:24.776036"
+    },
+    {
+      "question_id": 4,
+      "category": "math",
+      "strategy": "single_agent",
+      "final_answer": 1,
+      "correct_answer": 1,
+      "debate_process": "FINAL_ANSWER: 1",
+      "timestamp": "2025-12-04T21:21:26.443441"
+    },
+    {
+      "question_id": 5,
+      "category": "health",
+      "strategy": "single_agent",
+      "final_answer": 9,
+      "correct_answer": 9,
+      "debate_process": "FINAL_ANSWER: 9",
+      "timestamp": "2025-12-04T21:21:33.292189"
+    },
+    {
+      "question_id": 6,
+      "category": "health",
+      "strategy": "single_agent",
+      "final_answer": 0,
+      "correct_answer": 6,
+      "debate_process": "FINAL_ANSWER: 0",
+      "timestamp": "2025-12-04T21:21:39.752197"
+    },
+    {
+      "question_id": 7,
+      "category": "health",
+      "strategy": "single_agent",
+      "final_answer": 9,
+      "correct_answer": 5,
+      "debate_process": "FINAL_ANSWER: 9",
+      "timestamp": "2025-12-04T21:21:41.293458"
+    },
+    {
+      "question_id": 8,
+      "category": "health",
+      "strategy": "single_agent",
+      "final_answer": 2,
+      "correct_answer": 5,
+      "debate_process": "FINAL_ANSWER: 2",
+      "timestamp": "2025-12-04T21:21:47.423287"
+    },
+    {
+      "question_id": 9,
+      "category": "health",
+      "strategy": "single_agent",
+      "final_answer": 3,
+      "correct_answer": 3,
+      "debate_process": "FINAL_ANSWER: 3",
+      "timestamp": "2025-12-04T21:21:52.997075"
+    },
+    {
+      "question_id": 10,
+      "category": "physics",
+      "strategy": "single_agent",
+      "final_answer": 0,
+      "correct_answer": 4,
+      "debate_process": "FINAL_ANSWER: 0",
+      "timestamp": "2025-12-04T21:21:55.425786"
+    },
+    {
+      "question_id": 11,
+      "category": "physics",
+      "strategy": "single_agent",
+      "final_answer": 0,
+      "correct_answer": 0,
+      "debate_process": "FINAL_ANSWER: 0",
+      "timestamp": "2025-12-04T21:21:57.743485"
+    },
+    {
+      "question_id": 12,
+      "category": "physics",
+      "strategy": "single_agent",
+      "final_answer": 5,
+      "correct_answer": 7,
+      "debate_process": "FINAL_ANSWER: 5",
+      "timestamp": "2025-12-04T21:21:59.562351"
+    },
+    {
+      "question_id": 13,
+      "category": "physics",
+      "strategy": "single_agent",
+      "final_answer": 4,
+      "correct_answer": 4,
+      "debate_process": "FINAL_ANSWER: 4",
+      "timestamp": "2025-12-04T21:22:03.368684"
+    },
+    {
+      "question_id": 14,
+      "category": "physics",
+      "strategy": "single_agent",
+      "final_answer": 0,
+      "correct_answer": 0,
+      "debate_process": "FINAL_ANSWER: 0",
+      "timestamp": "2025-12-04T21:22:08.555862"
+    },
+    {
+      "question_id": 15,
+      "category": "business",
+      "strategy": "single_agent",
+      "final_answer": 5,
+      "correct_answer": 5,
+      "debate_process": "FINAL_ANSWER: 5",
+      "timestamp": "2025-12-04T21:22:17.937475"
+    },
+    {
+      "question_id": 16,
+      "category": "business",
+      "strategy": "single_agent",
+      "final_answer": 3,
+      "correct_answer": 3,
+      "debate_process": "FINAL_ANSWER: 3",
+      "timestamp": "2025-12-04T21:22:21.680973"
+    },
+    {
+      "question_id": 17,
+      "category": "business",
+      "strategy": "single_agent",
+      "final_answer": 5,
+      "correct_answer": 0,
+      "debate_process": "FINAL_ANSWER: 5",
+      "timestamp": "2025-12-04T21:22:27.648013"
+    },
+    {
+      "question_id": 18,
+      "category": "business",
+      "strategy": "single_agent",
+      "final_answer": 2,
+      "correct_answer": 6,
+      "debate_process": "FINAL_ANSWER: 2",
+      "timestamp": "2025-12-04T21:22:29.306584"
+    },
+    {
+      "question_id": 19,
+      "category": "business",
+      "strategy": "single_agent",
+      "final_answer": 7,
+      "correct_answer": 7,
+      "debate_process": "FINAL_ANSWER: 7",
+      "timestamp": "2025-12-04T21:22:31.222006"
+    },
+    {
+      "question_id": 20,
+      "category": "biology",
+      "strategy": "single_agent",
+      "final_answer": 1,
+      "correct_answer": 1,
+      "debate_process": "FINAL_ANSWER: 1",
+      "timestamp": "2025-12-04T21:22:34.275883"
+    },
+    {
+      "question_id": 21,
+      "category": "biology",
+      "strategy": "single_agent",
+      "final_answer": 3,
+      "correct_answer": 3,
+      "debate_process": "FINAL_ANSWER: 3",
+      "timestamp": "2025-12-04T21:22:35.959726"
+    },
+    {
+      "question_id": 22,
+      "category": "biology",
+      "strategy": "single_agent",
+      "final_answer": 3,
+      "correct_answer": 3,
+      "debate_process": "FINAL_ANSWER: 3",
+      "timestamp": "2025-12-04T21:22:39.579822"
+    },
+    {
+      "question_id": 23,
+      "category": "biology",
+      "strategy": "single_agent",
+      "final_answer": 0,
+      "correct_answer": 0,
+      "debate_process": "FINAL_ANSWER: 0",
+      "timestamp": "2025-12-04T21:22:42.130647"
+    },
+    {
+      "question_id": 24,
+      "category": "biology",
+      "strategy": "single_agent",
+      "final_answer": 7,
+      "correct_answer": 7,
+      "debate_process": "FINAL_ANSWER: 7",
+      "timestamp": "2025-12-04T21:22:44.318787"
+    },
+    {
+      "question_id": 25,
+      "category": "chemistry",
+      "strategy": "single_agent",
+      "final_answer": 4,
+      "correct_answer": 1,
+      "debate_process": "FINAL_ANSWER: 4",
+      "timestamp": "2025-12-04T21:22:48.160828"
+    },
+    {
+      "question_id": 26,
+      "category": "chemistry",
+      "strategy": "single_agent",
+      "final_answer": 9,
+      "correct_answer": 9,
+      "debate_process": "FINAL_ANSWER: 9",
+      "timestamp": "2025-12-04T21:23:09.034888"
+    },
+    {
+      "question_id": 27,
+      "category": "chemistry",
+      "strategy": "single_agent",
+      "final_answer": 4,
+      "correct_answer": 4,
+      "debate_process": "FINAL_ANSWER: 4",
+      "timestamp": "2025-12-04T21:23:16.352943"
+    },
+    {
+      "question_id": 28,
+      "category": "chemistry",
+      "strategy": "single_agent",
+      "final_answer": 1,
+      "correct_answer": 0,
+      "debate_process": "FINAL_ANSWER: 1",
+      "timestamp": "2025-12-04T21:23:23.400551"
+    },
+    {
+      "question_id": 29,
+      "category": "chemistry",
+      "strategy": "single_agent",
+      "final_answer": 1,
+      "correct_answer": 9,
+      "debate_process": "FINAL_ANSWER: 1",
+      "timestamp": "2025-12-04T21:23:25.871899"
+    },
+    {
+      "question_id": 30,
+      "category": "computer science",
+      "strategy": "single_agent",
+      "final_answer": 6,
+      "correct_answer": 1,
+      "debate_process": "FINAL_ANSWER: 6",
+      "timestamp": "2025-12-04T21:23:30.364530"
+    },
+    {
+      "question_id": 31,
+      "category": "computer science",
+      "strategy": "single_agent",
+      "final_answer": 5,
+      "correct_answer": 8,
+      "debate_process": "FINAL_ANSWER: 5",
+      "timestamp": "2025-12-04T21:23:34.012517"
+    },
+    {
+      "question_id": 32,
+      "category": "computer science",
+      "strategy": "single_agent",
+      "final_answer": 2,
+      "correct_answer": 2,
+      "debate_process": "FINAL_ANSWER: 2",
+      "timestamp": "2025-12-04T21:23:38.344281"
+    },
+    {
+      "question_id": 33,
+      "category": "computer science",
+      "strategy": "single_agent",
+      "final_answer": 8,
+      "correct_answer": 8,
+      "debate_process": "FINAL_ANSWER: 8",
+      "timestamp": "2025-12-04T21:23:40.044306"
+    },
+    {
+      "question_id": 34,
+      "category": "computer science",
+      "strategy": "single_agent",
+      "final_answer": 0,
+      "correct_answer": 0,
+      "debate_process": "FINAL_ANSWER: 0",
+      "timestamp": "2025-12-04T21:23:46.847901"
+    },
+    {
+      "question_id": 35,
+      "category": "economics",
+      "strategy": "single_agent",
+      "final_answer": 5,
+      "correct_answer": 5,
+      "debate_process": "FINAL_ANSWER: 5",
+      "timestamp": "2025-12-04T21:23:54.768830"
+    },
+    {
+      "question_id": 36,
+      "category": "economics",
+      "strategy": "single_agent",
+      "final_answer": 0,
+      "correct_answer": 7,
+      "debate_process": "FINAL_ANSWER: 0",
+      "timestamp": "2025-12-04T21:23:58.493072"
+    },
+    {
+      "question_id": 37,
+      "category": "economics",
+      "strategy": "single_agent",
+      "final_answer": 6,
+      "correct_answer": 2,
+      "debate_process": "FINAL_ANSWER: 6",
+      "timestamp": "2025-12-04T21:24:01.186702"
+    },
+    {
+      "question_id": 38,
+      "category": "economics",
+      "strategy": "single_agent",
+      "final_answer": 6,
+      "correct_answer": 6,
+      "debate_process": "FINAL_ANSWER: 6",
+      "timestamp": "2025-12-04T21:24:04.843833"
+    },
+    {
+      "question_id": 39,
+      "category": "economics",
+      "strategy": "single_agent",
+      "final_answer": 5,
+      "correct_answer": 5,
+      "debate_process": "FINAL_ANSWER: 5",
+      "timestamp": "2025-12-04T21:24:09.347904"
+    },
+    {
+      "question_id": 40,
+      "category": "engineering",
+      "strategy": "single_agent",
+      "final_answer": 2,
+      "correct_answer": 2,
+      "debate_process": "FINAL_ANSWER: 2",
+      "timestamp": "2025-12-04T21:24:12.829332"
+    },
+    {
+      "question_id": 41,
+      "category": "engineering",
+      "strategy": "single_agent",
+      "final_answer": 2,
+      "correct_answer": 0,
+      "debate_process": "FINAL_ANSWER: 2",
+      "timestamp": "2025-12-04T21:24:15.036830"
+    },
+    {
+      "question_id": 42,
+      "category": "engineering",
+      "strategy": "single_agent",
+      "final_answer": 2,
+      "correct_answer": 2,
+      "debate_process": "FINAL_ANSWER: 2",
+      "timestamp": "2025-12-04T21:24:17.536744"
+    },
+    {
+      "question_id": 43,
+      "category": "engineering",
+      "strategy": "single_agent",
+      "final_answer": 8,
+      "correct_answer": 8,
+      "debate_process": "FINAL_ANSWER: 8",
+      "timestamp": "2025-12-04T21:24:20.130147"
+    },
+    {
+      "question_id": 44,
+      "category": "engineering",
+      "strategy": "single_agent",
+      "final_answer": 2,
+      "correct_answer": 0,
+      "debate_process": "FINAL_ANSWER: 2",
+      "timestamp": "2025-12-04T21:24:23.959085"
+    },
+    {
+      "question_id": 45,
+      "category": "philosophy",
+      "strategy": "single_agent",
+      "final_answer": 1,
+      "correct_answer": 1,
+      "debate_process": "FINAL_ANSWER: 1",
+      "timestamp": "2025-12-04T21:24:27.327547"
+    },
+    {
+      "question_id": 46,
+      "category": "philosophy",
+      "strategy": "single_agent",
+      "final_answer": 1,
+      "correct_answer": 9,
+      "debate_process": "FINAL_ANSWER: 1",
+      "timestamp": "2025-12-04T21:24:29.806253"
+    },
+    {
+      "question_id": 47,
+      "category": "philosophy",
+      "strategy": "single_agent",
+      "final_answer": 1,
+      "correct_answer": 1,
+      "debate_process": "FINAL_ANSWER: 1",
+      "timestamp": "2025-12-04T21:24:32.480232"
+    },
+    {
+      "question_id": 48,
+      "category": "philosophy",
+      "strategy": "single_agent",
+      "final_answer": 8,
+      "correct_answer": 8,
+      "debate_process": "FINAL_ANSWER: 8",
+      "timestamp": "2025-12-04T21:24:34.421245"
+    },
+    {
+      "question_id": 49,
+      "category": "philosophy",
+      "strategy": "single_agent",
+      "final_answer": 3,
+      "correct_answer": 3,
+      "debate_process": "FINAL_ANSWER: 3",
+      "timestamp": "2025-12-04T21:24:36.597841"
+    },
+    {
+      "question_id": 50,
+      "category": "other",
+      "strategy": "single_agent",
+      "final_answer": 1,
+      "correct_answer": 4,
+      "debate_process": "FINAL_ANSWER: 1",
+      "timestamp": "2025-12-04T21:24:51.469713"
+    },
+    {
+      "question_id": 51,
+      "category": "other",
+      "strategy": "single_agent",
+      "final_answer": 1,
+      "correct_answer": 1,
+      "debate_process": "FINAL_ANSWER: 1",
+      "timestamp": "2025-12-04T21:24:53.806025"
+    },
+    {
+      "question_id": 52,
+      "category": "other",
+      "strategy": "single_agent",
+      "final_answer": 1,
+      "correct_answer": 1,
+      "debate_process": "FINAL_ANSWER: 1",
+      "timestamp": "2025-12-04T21:24:57.806851"
+    },
+    {
+      "question_id": 53,
+      "category": "other",
+      "strategy": "single_agent",
+      "final_answer": 9,
+      "correct_answer": 9,
+      "debate_process": "FINAL_ANSWER: 9",
+      "timestamp": "2025-12-04T21:25:00.642014"
+    },
+    {
+      "question_id": 54,
+      "category": "other",
+      "strategy": "single_agent",
+      "final_answer": 2,
+      "correct_answer": 9,
+      "debate_process": "FINAL_ANSWER: 2",
+      "timestamp": "2025-12-04T21:25:07.412373"
+    },
+    {
+      "question_id": 55,
+      "category": "history",
+      "strategy": "single_agent",
+      "final_answer": 0,
+      "correct_answer": 0,
+      "debate_process": "FINAL_ANSWER: 0",
+      "timestamp": "2025-12-04T21:25:09.641482"
+    },
+    {
+      "question_id": 56,
+      "category": "history",
+      "strategy": "single_agent",
+      "final_answer": 2,
+      "correct_answer": 2,
+      "debate_process": "FINAL_ANSWER: 2",
+      "timestamp": "2025-12-04T21:25:11.480523"
+    },
+    {
+      "question_id": 57,
+      "category": "history",
+      "strategy": "single_agent",
+      "final_answer": 4,
+      "correct_answer": 4,
+      "debate_process": "FINAL_ANSWER: 4",
+      "timestamp": "2025-12-04T21:25:13.772479"
+    },
+    {
+      "question_id": 58,
+      "category": "history",
+      "strategy": "single_agent",
+      "final_answer": 3,
+      "correct_answer": 4,
+      "debate_process": "FINAL_ANSWER: 3",
+      "timestamp": "2025-12-04T21:25:16.349943"
+    },
+    {
+      "question_id": 59,
+      "category": "history",
+      "strategy": "single_agent",
+      "final_answer": 6,
+      "correct_answer": 6,
+      "debate_process": "FINAL_ANSWER: 6",
+      "timestamp": "2025-12-04T21:25:19.696871"
+    },
+    {
+      "question_id": 60,
+      "category": "psychology",
+      "strategy": "single_agent",
+      "final_answer": 7,
+      "correct_answer": 7,
+      "debate_process": "FINAL_ANSWER: 7",
+      "timestamp": "2025-12-04T21:25:22.265392"
+    },
+    {
+      "question_id": 61,
+      "category": "psychology",
+      "strategy": "single_agent",
+      "final_answer": 4,
+      "correct_answer": 7,
+      "debate_process": "FINAL_ANSWER: 4",
+      "timestamp": "2025-12-04T21:25:25.571709"
+    },
+    {
+      "question_id": 62,
+      "category": "psychology",
+      "strategy": "single_agent",
+      "final_answer": 0,
+      "correct_answer": 0,
+      "debate_process": "FINAL_ANSWER: 0",
+      "timestamp": "2025-12-04T21:25:27.986189"
+    },
+    {
+      "question_id": 63,
+      "category": "psychology",
+      "strategy": "single_agent",
+      "final_answer": 9,
+      "correct_answer": 9,
+      "debate_process": "FINAL_ANSWER: 9",
+      "timestamp": "2025-12-04T21:25:32.155967"
+    },
+    {
+      "question_id": 64,
+      "category": "psychology",
+      "strategy": "single_agent",
+      "final_answer": 4,
+      "correct_answer": 4,
+      "debate_process": "FINAL_ANSWER: 4",
+      "timestamp": "2025-12-04T21:25:38.368124"
+    },
+    {
+      "question_id": 65,
+      "category": "law",
+      "strategy": "single_agent",
+      "final_answer": 8,
+      "correct_answer": 8,
+      "debate_process": "FINAL_ANSWER: 8",
+      "timestamp": "2025-12-04T21:25:41.145925"
+    },
+    {
+      "question_id": 66,
+      "category": "law",
+      "strategy": "single_agent",
+      "final_answer": 3,
+      "correct_answer": 8,
+      "debate_process": "FINAL_ANSWER: 3",
+      "timestamp": "2025-12-04T21:25:43.386649"
+    },
+    {
+      "question_id": 67,
+      "category": "law",
+      "strategy": "single_agent",
+      "final_answer": 9,
+      "correct_answer": 9,
+      "debate_process": "FINAL_ANSWER: 9",
+      "timestamp": "2025-12-04T21:25:46.172255"
+    },
+    {
+      "question_id": 68,
+      "category": "law",
+      "strategy": "single_agent",
+      "final_answer": 4,
+      "correct_answer": 6,
+      "debate_process": "FINAL_ANSWER: 4",
+      "timestamp": "2025-12-04T21:25:47.791931"
+    },
+    {
+      "question_id": 69,
+      "category": "law",
+      "strategy": "single_agent",
+      "final_answer": 5,
+      "correct_answer": 5,
+      "debate_process": "FINAL_ANSWER: 5",
+      "timestamp": "2025-12-04T21:25:51.696239"
+    }
+  ]
+}
